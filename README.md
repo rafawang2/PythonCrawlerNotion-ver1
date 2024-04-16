@@ -1,0 +1,2 @@
+# PythonCrawlerNotion-ver1
+利用Python抓取博客來的資料，建立作者關鍵字之連結後抓取頁面所有書籍資料
